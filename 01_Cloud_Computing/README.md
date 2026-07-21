@@ -37,3 +37,14 @@ Suppose you are building an online shopping application.
 - **Storage** → Stores product images
 - **Database** → Stores customer details and orders
 - **Networking** → Connects users to the application
+
+
+## cloud service model
+-IaaS--Infrastructure as a service--more live empty house, need to set up the house
+-PaaS--Platform as a service--fully furnished house
+-SaaS--Software as a service--a hotel room
+
+## cloud deployment model
+-public cloud -- staying in hotel -- hotel needs to manage
+-private cloud -- stay in your own house -- you are responsible
+-hybrid cloud -- stay in your house but also sometimes in gotel
